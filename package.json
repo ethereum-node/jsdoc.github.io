@@ -6,7 +6,7 @@
   "dependencies": {
     "code-prettify": "^0.1.0",
     "fs-extra": "^7.0.1",
-    "gulp": "^4.0.1",
+    "gulp": "^5.0.0",
     "gulp-connect": "^5.7.0",
     "harmonize": "^2.0.0",
     "lodash": "^4.17.11",
